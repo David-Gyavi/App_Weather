@@ -152,11 +152,11 @@ The project was deployed to GitHub Pages using the following steps.
 * Copy the url in the dropdown box
 * Using IDE of your choice open up your prefered terminal or GitHub desktop.
 * You can Navigate to your desired file location.
-* Copy the following code and put it into your terminal to clone the site. https://david-gyavi.github.io/Travel-WeathetApp
+* Copy the following code and put it into your terminal to clone the site. david-gyavi.github.io/App_Weather/
 
     
 
-Git clone https://david-gyavi.github.io/Travel-WeathetApp/
+Git clone david-gyavi.github.io/App_Weather/
 
 ## Credits:
 ___
